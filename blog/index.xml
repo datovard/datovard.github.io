@@ -9,13 +9,14 @@
     <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datovard.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>Propuesta de proyecto: Desarrollo de apps</title>
+      <title>Diapositivas de propuesta: Museal</title>
       <link>https://datovard.github.io/blog/diapositivas-museal/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://datovard.github.io/blog/diapositivas-museal/</guid>
-      <description>A continuación se incluye el desarrollo de la propuesta postulada como proyecto de la materia.</description>
+      <description>A continuación se incluyen las diapositivas para la propuesta de proyecto Museal.</description>
     </item>
 
     <item>
